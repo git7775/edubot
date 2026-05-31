@@ -1,0 +1,1 @@
+print("Edubot is starting....")
